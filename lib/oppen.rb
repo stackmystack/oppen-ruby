@@ -1,2 +1,2 @@
-module Oppen
-end
+require 'oppen/printer'
+require 'oppen/token'
